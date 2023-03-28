@@ -1,0 +1,8 @@
+Fred warrior 2 3 4 5 6 
+Pat expert 200 300 400 500 600
+Carol combatant 2 4 5 6 
+Frank tough 2 4 5 6 7 
+Pete tough 8 9 10 300 6 
+Ben combatant 23 4 50 600 
+Ed warrior 12 34 58 6003 98 
+Katie expert 333 444 566 64 22 
